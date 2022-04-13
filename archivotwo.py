@@ -1,2 +1,2 @@
-xd = str('que miras? XD kappa')
+xd = str('que miras? kappa')
 print(xd)
